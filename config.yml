@@ -3,7 +3,7 @@ file_paths:
     datasets:
         root: '/home/yunusskeete/Documents/data/2D/Floor Plans'
         relative_paths:
-            cubi_casa_5k: 'CubiCasa5K'
+            cubi_casa_5k: 'CubiCasa5K/cubicasa5k'
             cvc_fp: 'CVC-FP/ImagesGT'
             floor_plan_cad: 'FloorPlanCAD'
             floor_plans: 'floorplans'
