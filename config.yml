@@ -1,0 +1,18 @@
+version: 1
+file_paths:
+    datasets:
+        root: '/home/yunusskeete/Documents/data/2D/Floor Plans'
+        relative_paths:
+            cubi_casa_5k: 'CubiCasa5K'
+            cvc_fp: 'CVC-FP/ImagesGT'
+            floor_plan_cad: 'FloorPlanCAD'
+            floor_plans: 'floorplans'
+            house_expo: 'HouseExpo/HouseExpo_png/png'
+            mls_struct_fp: 'MLSTRUCT-FP/MLSTRUCT-FP_v1'
+            modified_swiss_dwellings: 'Modified Swiss Dwellings/archive'
+            rent_3d: 'Rent3D/Rent3Dpp'
+            robin: 'ROBIN'
+            robin_pp: 'ROBIN++'
+            r_plan: 'RPLAN/dataset'
+            swiss_dwellings: 'Swiss Dwellings/7788422/swiss-dwellings-v3.0.0'
+            text_to_3d_house: 'Text-to-3D House Model-20240508T140708Z-001/Text-to-3D House Model'
