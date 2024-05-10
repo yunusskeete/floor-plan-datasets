@@ -4,6 +4,7 @@
 
 > Not that useful:
 1. Floor plans not that realistic
+1. Not sure if they include room segmentation in labels
 1. Floor plans include furniture items
 1. Labels manually generated from svg files, therefore not in COCO format.
 1. Labels difficult to extract from svgs

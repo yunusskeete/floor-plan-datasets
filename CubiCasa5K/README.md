@@ -3,7 +3,7 @@
 ## Verdict:
 > TBD: Very useful. Non-commercial license.
 
-1. Realistic drawings
+1. 5000 realistic drawings
 1. Drawings include interior items
 1. High-quality labels
 1. Panoptic segmentation pytorch model
